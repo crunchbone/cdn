@@ -1,0 +1,530 @@
+newmtl Part21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part21Tex.png
+map_Kd Part21Tex.png
+map_d Part21Tex.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0146516 0.0144545 0.01505 
+
+d 1
+
+Ns 0
+
+newmtl Spawnlocation2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Spawnlocation2Tex.png
+map_Kd Spawnlocation2Tex.png
+map_d Spawnlocation2Tex.png
+
+newmtl Baseplate1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.00831606 0.00759473 0.00813238 
+
+d 1
+
+Ns 0
+
+newmtl Baseplate2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0666667 0.0666667 0.0666667 
+
+d 1
+
+Ns 0
+
+map_Ka Baseplate2Tex.png
+map_Kd Baseplate2Tex.png
+map_d Baseplate2Tex.png
+
+newmtl Part29Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part29Tex.png
+map_Kd Part29Tex.png
+map_d Part29Tex.png
+
+newmtl Wedge3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.227451 0.227451 0.227451 
+
+d 1
+
+Ns 255
+
+map_Ka Wedge3Tex.png
+map_Kd Wedge3Tex.png
+map_d Wedge3Tex.png
+
+newmtl Part5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part5Tex.png
+map_Kd Part5Tex.png
+map_d Part5Tex.png
+
+newmtl Part13Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part13Tex.png
+map_Kd Part13Tex.png
+map_d Part13Tex.png
+
+newmtl Wedge5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.227451 0.227451 0.227451 
+
+d 1
+
+Ns 255
+
+map_Ka Wedge5Tex.png
+map_Kd Wedge5Tex.png
+map_d Wedge5Tex.png
+
+newmtl Part49Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part49Tex.png
+map_Kd Part49Tex.png
+map_d Part49Tex.png
+
+newmtl Camerapart1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 0.101961
+
+Ns 0
+
+newmtl Part69Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part69Tex.png
+map_Kd Part69Tex.png
+map_d Part69Tex.png
+
+newmtl Wedge7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.227451 0.227451 0.227451 
+
+d 1
+
+Ns 255
+
+map_Ka Wedge7Tex.png
+map_Kd Wedge7Tex.png
+map_d Wedge7Tex.png
+
+newmtl Wedge1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0849791 0.0838364 0.0872899 
+
+d 1
+
+Ns 255
+
+newmtl Dummy2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Dummy2Tex.png
+map_Kd Dummy2Tex.png
+map_d Dummy2Tex.png
+
+newmtl Dummy1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Part11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part11Tex.png
+map_Kd Part11Tex.png
+map_d Part11Tex.png
+
+newmtl Part15Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part15Tex.png
+map_Kd Part15Tex.png
+map_d Part15Tex.png
+
+newmtl Part80Mtl
+Material Color
+Ka 0.0677246 0.315763 0.0677246
+Kd 0.0677246 0.315763 0.0677246
+Ks 0.00451497 0.0210509 0.00451497 
+
+d 1
+
+Ns 0
+
+newmtl Part17Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part17Tex.png
+map_Kd Part17Tex.png
+map_d Part17Tex.png
+
+newmtl Part19Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part19Tex.png
+map_Kd Part19Tex.png
+map_d Part19Tex.png
+
+newmtl Part67Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part67Tex.png
+map_Kd Part67Tex.png
+map_d Part67Tex.png
+
+newmtl Part65Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part65Tex.png
+map_Kd Part65Tex.png
+map_d Part65Tex.png
+
+newmtl Part53Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part53Tex.png
+map_Kd Part53Tex.png
+map_d Part53Tex.png
+
+newmtl Part23Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part23Tex.png
+map_Kd Part23Tex.png
+map_d Part23Tex.png
+
+newmtl Part51Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part51Tex.png
+map_Kd Part51Tex.png
+map_d Part51Tex.png
+
+newmtl Part25Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part25Tex.png
+map_Kd Part25Tex.png
+map_d Part25Tex.png
+
+newmtl Part27Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part27Tex.png
+map_Kd Part27Tex.png
+map_d Part27Tex.png
+
+newmtl Spawnlocation4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Spawnlocation4Tex.png
+map_Kd Spawnlocation4Tex.png
+map_d Spawnlocation4Tex.png
+
+newmtl Part30Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0105789 0.00992534 0.00790967 
+
+d 1
+
+Ns 0
+
+newmtl Cap1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0249077 0.0245727 0.025585 
+
+d 1
+
+Ns 0
+
+newmtl Part45Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part45Tex.png
+map_Kd Part45Tex.png
+map_d Part45Tex.png
+
+newmtl Part47Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part47Tex.png
+map_Kd Part47Tex.png
+map_d Part47Tex.png
+
+newmtl Part55Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part55Tex.png
+map_Kd Part55Tex.png
+map_d Part55Tex.png
+
+newmtl Part57Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part57Tex.png
+map_Kd Part57Tex.png
+map_d Part57Tex.png
+
+newmtl Part59Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part59Tex.png
+map_Kd Part59Tex.png
+map_d Part59Tex.png
+
+newmtl Part61Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Part61Tex.png
+map_Kd Part61Tex.png
+map_d Part61Tex.png
+
+newmtl Dummy3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+newmtl Dummy8Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 0.501961
+
+Ns 0
+
+newmtl Part79Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.00650253 0.00682109 0.00890857 
+
+d 1
+
+Ns 0
+
